@@ -22,4 +22,6 @@ int main(){
 
     int cnt = (int)(log10(n)+1);
     cout << cnt << endl;
+
+    /*Time Complexity: log10(n)*/
 }
